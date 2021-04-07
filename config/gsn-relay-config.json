@@ -1,0 +1,8 @@
+
+{
+  "baseRelayFee": 0,
+  "pctRelayFee": 70,
+  "versionRegistryAddress": "0x4DEb80d7dbcD0Df91F301fe89993194E16735b58",
+  "gasPriceFactor": 1,
+  "ethereumNodeUrl": "https://rpc-mainnet.maticvigil.com/"
+}
