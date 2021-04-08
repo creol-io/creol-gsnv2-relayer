@@ -43,7 +43,7 @@ services:
     volumes:
       - $ROOT/gsndata/gsn1:/app/data
       - $ROOT/gsndata/manager:/app/data/manager
-      - $ROOT/config:/app/config:ro
+      - /root/application/config:/app/config:ro
 
     environment:
       url: https://${HOST}/gsn1
